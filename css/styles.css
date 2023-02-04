@@ -1,0 +1,54 @@
+h1 {
+color:rgb(141, 103, 177);
+width: 300px;
+margin: auto;
+border-style:dashed;
+background-color: aquamarine;
+text-align: left;
+}
+
+h3 {
+    width: 300px;
+    margin: auto;
+    color:rgb(141, 103, 177);
+    border-style:dashed;
+    background-color: aquamarine;
+    text-align: left;
+}
+
+.lorem-hipster  {
+    width: 600px;
+    margin: auto;
+    background-color: aqua;
+    border-radius: 150px;
+    border-color: aquamarine;
+    line-height: 1.6;
+}
+
+.contact-section {
+    width: 600px;
+    margin: auto;
+    text-align: left;
+
+
+}
+.AaronArtG  {   
+     width: 600px;
+     margin: auto;
+     text-align: left;
+
+
+}
+.photos {
+    text-align: center;
+}
+
+h4 {
+    width: 300px;
+    margin: auto;
+    color:rgb(141, 103, 177);
+    border-style:dashed;
+    background-color: aquamarine;
+    text-align: left;
+
+}
